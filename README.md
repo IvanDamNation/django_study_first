@@ -2,7 +2,7 @@
 
 This is simple project on Django.
 
-For superuser sigh in (on /admin/):
+For superuser sign in (on /admin/):
 login: IDN_admin
 password: A12345678a
 
